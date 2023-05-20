@@ -1,0 +1,6 @@
+
+asics|500|USA|5|36
+nike|150|Japan|8|42
+adidas|100|Russia|15|38
+rebook|1000|Germany|3|44
+qwe|300|asfd|7|41

@@ -1,0 +1,4 @@
+qwerty 12345678 1 0 2000
+qweqwe asdasdasd 0 0 2000
+nikita 12345678 0 0
+000
